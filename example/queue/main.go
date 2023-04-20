@@ -3,9 +3,8 @@ package main
 import (
 	"unsafe"
 
-	"github.com/CosmWasm/cosmwasm-go/example/queue/src"
-
-	"github.com/CosmWasm/cosmwasm-go/std"
+	"github.com/sashaduke/cosmwasm-go/example/queue/src"
+	"github.com/sashaduke/cosmwasm-go/std"
 )
 
 func main() {}
